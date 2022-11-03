@@ -1,0 +1,1 @@
+export const NO_UNPAID_JOBS_FOUND = 'No unpaid jobs found';
